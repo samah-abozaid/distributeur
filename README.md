@@ -7,7 +7,7 @@ Chaque produit a un prix. S’il n’y a pas assez d’argent,
 Réagir
 Répondre
 
-15 h 08
+
 Exemple du menu principal:
 1. Insérer de l’argent
 2. Acheter
